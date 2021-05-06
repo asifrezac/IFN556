@@ -1,0 +1,12 @@
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/bin/Debug/netcoreapp3.1/PaintingEstimate.deps.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/bin/Debug/netcoreapp3.1/PaintingEstimate.runtimeconfig.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/bin/Debug/netcoreapp3.1/PaintingEstimate.runtimeconfig.dev.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/bin/Debug/netcoreapp3.1/PaintingEstimate.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/bin/Debug/netcoreapp3.1/PaintingEstimate.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/obj/Debug/netcoreapp3.1/PaintingEstimate.csprojAssemblyReference.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/obj/Debug/netcoreapp3.1/PaintingEstimate.AssemblyInfoInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/obj/Debug/netcoreapp3.1/PaintingEstimate.AssemblyInfo.cs
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/obj/Debug/netcoreapp3.1/PaintingEstimate.csproj.CoreCompileInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/obj/Debug/netcoreapp3.1/PaintingEstimate.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/obj/Debug/netcoreapp3.1/PaintingEstimate.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/PaintingEstimate/PaintingEstimate/obj/Debug/netcoreapp3.1/PaintingEstimate.genruntimeconfig.cache

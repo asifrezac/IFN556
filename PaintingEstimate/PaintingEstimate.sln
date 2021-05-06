@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintingEstimate", "PaintingEstimate\PaintingEstimate.csproj", "{CD8054E5-30ED-47E8-98BA-06252B95CCCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8054E5-30ED-47E8-98BA-06252B95CCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8054E5-30ED-47E8-98BA-06252B95CCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8054E5-30ED-47E8-98BA-06252B95CCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8054E5-30ED-47E8-98BA-06252B95CCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304EEC74-6C37-4647-9DF8-040864740915}
+	EndGlobalSection
+EndGlobal
