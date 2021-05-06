@@ -1,0 +1,12 @@
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/netcoreapp3.1/FineForOverdueBooks.deps.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/netcoreapp3.1/FineForOverdueBooks.runtimeconfig.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/netcoreapp3.1/FineForOverdueBooks.runtimeconfig.dev.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/netcoreapp3.1/FineForOverdueBooks.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/netcoreapp3.1/FineForOverdueBooks.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/netcoreapp3.1/FineForOverdueBooks.csprojAssemblyReference.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/netcoreapp3.1/FineForOverdueBooks.AssemblyInfoInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/netcoreapp3.1/FineForOverdueBooks.AssemblyInfo.cs
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/netcoreapp3.1/FineForOverdueBooks.csproj.CoreCompileInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/netcoreapp3.1/FineForOverdueBooks.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/netcoreapp3.1/FineForOverdueBooks.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/netcoreapp3.1/FineForOverdueBooks.genruntimeconfig.cache
