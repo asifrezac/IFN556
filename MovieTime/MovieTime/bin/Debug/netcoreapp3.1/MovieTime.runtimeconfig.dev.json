@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/asifreza/.dotnet/store/|arch|/|tfm|",
+      "/Users/asifreza/.nuget/packages"
+    ]
+  }
+}
