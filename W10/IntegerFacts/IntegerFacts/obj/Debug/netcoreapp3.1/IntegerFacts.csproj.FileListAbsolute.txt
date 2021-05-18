@@ -1,0 +1,12 @@
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/obj/Debug/netcoreapp3.1/IntegerFacts.csprojAssemblyReference.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/obj/Debug/netcoreapp3.1/IntegerFacts.AssemblyInfoInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/obj/Debug/netcoreapp3.1/IntegerFacts.AssemblyInfo.cs
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/obj/Debug/netcoreapp3.1/IntegerFacts.csproj.CoreCompileInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/bin/Debug/netcoreapp3.1/IntegerFacts.deps.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/bin/Debug/netcoreapp3.1/IntegerFacts.runtimeconfig.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/bin/Debug/netcoreapp3.1/IntegerFacts.runtimeconfig.dev.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/bin/Debug/netcoreapp3.1/IntegerFacts.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/bin/Debug/netcoreapp3.1/IntegerFacts.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/obj/Debug/netcoreapp3.1/IntegerFacts.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/obj/Debug/netcoreapp3.1/IntegerFacts.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/IntegerFacts/IntegerFacts/obj/Debug/netcoreapp3.1/IntegerFacts.genruntimeconfig.cache
