@@ -1,0 +1,12 @@
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/bin/Debug/netcoreapp3.1/MovieTime.deps.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/bin/Debug/netcoreapp3.1/MovieTime.runtimeconfig.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/bin/Debug/netcoreapp3.1/MovieTime.runtimeconfig.dev.json
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/bin/Debug/netcoreapp3.1/MovieTime.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/bin/Debug/netcoreapp3.1/MovieTime.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/obj/Debug/netcoreapp3.1/MovieTime.csprojAssemblyReference.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/obj/Debug/netcoreapp3.1/MovieTime.AssemblyInfoInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/obj/Debug/netcoreapp3.1/MovieTime.AssemblyInfo.cs
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/obj/Debug/netcoreapp3.1/MovieTime.csproj.CoreCompileInputs.cache
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/obj/Debug/netcoreapp3.1/MovieTime.dll
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/obj/Debug/netcoreapp3.1/MovieTime.pdb
+/Users/asifreza/Desktop/OneDrive - Queensland University of Technology/IFN556/W10/MovieTime/MovieTime/obj/Debug/netcoreapp3.1/MovieTime.genruntimeconfig.cache
